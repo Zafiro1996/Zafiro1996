@@ -12,6 +12,6 @@ Hi, I'm @Zafiro1996 or Isaías I've got 26 Years. Born in Argentina, and live ac
 
 I'm interested in Front-end Develop, Backend, Game Develop, Martial Art, Pattiserie (Bakery).
 
-I'm currently learning GIT, PostgreSQL, MySQL, and Javascript, & have more knowledge of languages.
+I'm currently learning GIT, PostgreSQL, MySQL, and Javascript.
 
 How to reach me: isaiasvelasquez_96@hotmail.com 
