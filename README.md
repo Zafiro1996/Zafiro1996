@@ -14,4 +14,4 @@ I'm interested in Front-end Develop, Backend, Game Develop, Martial Art, Pattise
 
 I'm currently learning GIT, PostgreSQL, MySQL, and Javascript.
 
-How to reach me: isaiasvelasquez_96@hotmail.com 
+How to reach me: isaiasvelasquez_96@hotmail.com / isaiasvelasquez1996@gmail.com
